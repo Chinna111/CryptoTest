@@ -1,0 +1,13 @@
+// Theme Colors
+$primary: #b40101;
+$light: #f2f2f2;
+
+
+.my-btn-color{
+    background-color: $primary;
+    color:$light;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    
+}
